@@ -1,0 +1,3 @@
+01-11-2024_02:25:07 AM: INFO: tests.test_checkout: - ### STARTED - test_multiple_products_can_be_purchased
+01-11-2024_02:25:13 AM: INFO: tests.test_homepage: - ### STARTED - test_successfully_adding_a_product_to_cart_on_home_page
+01-11-2024_02:25:49 AM: INFO: tests.test_product_details: - ### STARTED - test_successfully_adding_a_product_to_cart_from_product_details_page

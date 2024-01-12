@@ -1,0 +1,222 @@
+01-11-2024_02:55:01 AM: INFO: tests.conftest: - Starting browser setup
+01-11-2024_02:55:02 AM: INFO: tests.test_cart: - ### STARTED - test_return_to_home_page_from_cart_page
+01-11-2024_02:55:02 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:02 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- continue-shopping --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- continue-shopping --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- title --
+01-11-2024_02:55:03 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Products
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:03 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_list --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Fleece Jacket']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:04 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Fleece Jacket']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- title --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_item_name --
+01-11-2024_02:55:07 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Your Cart
+01-11-2024_02:55:07 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Sauce Labs Fleece Jacket
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- xpath -- and Locator -- //div[@class='item_pricebar']//button --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- removed_cart_item --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:07 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:08 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:08 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:08 AM: INFO: tests.conftest: - Ending with browser teardown
+01-11-2024_02:55:10 AM: INFO: tests.conftest: - Starting browser setup
+01-11-2024_02:55:12 AM: INFO: tests.test_checkout: - ### STARTED - test_multiple_products_can_be_purchased
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:12 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- checkout --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- checkout --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- first-name --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Typed :: John :: into Element with locator type: -- id -- and locator: -- first-name --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- last-name --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Typed :: Wick :: into Element with locator type: -- id -- and locator: -- last-name --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- postal-code --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Typed :: 12354 :: into Element with locator type: -- id -- and locator: -- postal-code --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- continue --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- continue --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- cart_item --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- finish --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- finish --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- complete-header --
+01-11-2024_02:55:14 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Thank you for your order!
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:14 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:15 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:15 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:15 AM: INFO: tests.conftest: - Ending with browser teardown
+01-11-2024_02:55:17 AM: INFO: tests.conftest: - Starting browser setup
+01-11-2024_02:55:19 AM: INFO: tests.test_homepage: - ### STARTED - test_successfully_adding_a_product_to_cart_on_home_page
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_list --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Onesie']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:19 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Onesie']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- title --
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_item_name --
+01-11-2024_02:55:22 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Your Cart
+01-11-2024_02:55:22 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Sauce Labs Onesie
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:22 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- xpath -- and Locator -- //div[@class='item_pricebar']//button --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_list --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Bolt T-Shirt']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:23 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Bolt T-Shirt']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_primary btn_small btn_inventory '] --
+01-11-2024_02:55:26 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:26 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_list --
+01-11-2024_02:55:26 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:27 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Bolt T-Shirt']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_secondary btn_small btn_inventory '] --
+01-11-2024_02:55:27 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Bolt T-Shirt']//ancestor::div[@class='inventory_item_label']//following-sibling::div[@class='pricebar']//button[@class='btn btn_secondary btn_small btn_inventory '] --
+01-11-2024_02:55:30 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:30 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- xpath -- and Locator -- //div[@class='pricebar']//button --
+01-11-2024_02:55:30 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:45 AM: ERROR: base.custom_driver: - Element did NOT appeared on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_badge --
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:45 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:45 AM: INFO: tests.conftest: - Ending with browser teardown
+01-11-2024_02:55:47 AM: INFO: tests.conftest: - Starting browser setup
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:49 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Products
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- react-burger-menu-btn --
+01-11-2024_02:55:49 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- logout_sidebar_link --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Typed :: standard :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Typed :: secret :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:50 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:50 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Epic sadface: Username and password do not match any user in this service
+01-11-2024_02:55:50 AM: INFO: tests.conftest: - Ending with browser teardown
+01-11-2024_02:55:52 AM: INFO: tests.conftest: - Starting browser setup
+01-11-2024_02:55:54 AM: INFO: tests.test_product_details: - ### STARTED - test_successfully_adding_a_product_to_cart_from_product_details_page
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- user-name --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Typed :: standard_user :: into Element with locator type: -- id -- and locator: -- user-name --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- id -- and Locator -- password --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Typed :: secret_sauce :: into Element with locator type: -- id -- and locator: -- password --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- login-button --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Backpack'] --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- xpath -- and Locator -- //div[text()='Sauce Labs Backpack'] --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- id -- and Locator -- add-to-cart-sauce-labs-backpack --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- id -- and Locator -- add-to-cart-sauce-labs-backpack --
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Wait a maximum of :: 15 :: seconds for element to be clickable
+01-11-2024_02:55:54 AM: INFO: base.custom_driver: - Element is clickable on the webpage, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:55 AM: INFO: base.custom_driver: - Clicked element on the webpage after wait, using Locator_Type -- class_name -- and Locator -- shopping_cart_link --
+01-11-2024_02:55:55 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:55 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- title --
+01-11-2024_02:55:55 AM: INFO: base.custom_driver: - waiting for maximum :: 15 :: seconds for element to be visible
+01-11-2024_02:55:55 AM: INFO: base.custom_driver: - Element appeared on the webpage, using Locator_Type -- class_name -- and Locator -- inventory_item_name --
+01-11-2024_02:55:55 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Your Cart
+01-11-2024_02:55:55 AM: INFO: utilities.utils: - !!! Verification Contains !!! --> Sauce Labs Backpack
+01-11-2024_02:55:55 AM: INFO: tests.conftest: - Ending with browser teardown
